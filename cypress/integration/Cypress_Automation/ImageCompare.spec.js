@@ -7,7 +7,7 @@ describe('Image Snapshot', () => {
 
 
       // image for comparing
-      cy.get('#btnSignUp'). matchImageSnapshot( 'Application Logo');
+      //cy.get('#btnSignUp'). matchImageSnapshot( 'Application Logo');
 
     });
   });
